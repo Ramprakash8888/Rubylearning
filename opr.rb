@@ -1,0 +1,5 @@
+puts " counting"
+puts " four  #{2 +3 -8 /1 *2}"
+puts " eight #{100 % 2} "
+puts " #{3 + 2 < 5 - 7}"
+puts "Is it greater? #{5 > -2}"
